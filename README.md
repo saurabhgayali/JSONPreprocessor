@@ -8,17 +8,13 @@ The JSON Preprocessor is a Python script that allows you to extract specific dat
 
   ```git clone <repository_url>```
 
-2. Install the required dependencies (assuming you have Python and pip installed):
-
-```pip install -r requirements.txt```
-
-3. Run the script:
+2. Run the script:
 ```python json_preprocessor.py```
-5. Modify the json_data variable in json_preprocessor.py to provide your own JSON data.
+3. Modify the json_data variable in json_preprocessor.py to provide your own JSON data.
 
-6. Specify the arguments to extract from the JSON data by modifying the arguments list in json_preprocessor.py.
+4. Specify the arguments to extract from the JSON data by modifying the arguments list in json_preprocessor.py.
 
-7. Execute the script to preprocess the JSON data and obtain the desired output.
+5. Execute the script to preprocess the JSON data and obtain the desired output.
 
 ## Examples
 ### Example JSON Data
