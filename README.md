@@ -6,7 +6,7 @@ The JSON Preprocessor is a Python script that allows you to extract specific dat
 
 1. Clone the repository:
 
-  ```git clone <repository_url>```
+  ```git clone https://github.com/saurabhgayali/JSONPreprocessor.git```
 
 2. Run the script:
 ```python json_preprocessor.py```
